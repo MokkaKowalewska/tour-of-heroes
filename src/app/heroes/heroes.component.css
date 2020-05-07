@@ -1,0 +1,19 @@
+.heroes {
+    list-style-type: none;
+    padding-left: 0;
+}
+
+.heroes__item {
+    margin: 5px 0;
+    cursor: pointer;
+}
+
+.heroes__item:hover {
+    background: lightpink;
+}
+
+.badge {
+    padding: 2px;
+    background: purple;
+    color: white;
+}
