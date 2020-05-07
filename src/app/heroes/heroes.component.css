@@ -12,6 +12,10 @@
     background: lightpink;
 }
 
+.selected {
+    background: lightgreen;
+}
+
 .badge {
     padding: 2px;
     background: purple;
